@@ -7,7 +7,7 @@
 | 序号 | 游戏名称 | 备注 | 作者 | 原网址 | 开源协议 | 试玩链接 |
 | -- | ----- | ----- | -- | ------ | ------ | ------ |
 | 01 | snakewizard | 贪吃蛇小游戏 | snakewizard | snakewizard.github.io | MIT License | [点击试玩](https://game.lanhonghao.cn/01snakewizard/) |
-| 02 |  |  |  |  |  | 点击试玩 |
+| 02 | 2048 | 2048在线版 | nathandhyou | nathandhyou.github.io | MIT License | [点击试玩](https://game.lanhonghao.cn/022048/) |
 | 03 |  |  |  |  |  | 点击试玩 |
 | 04 |  |  |  |  |  | 点击试玩 |
 | 05 |  |  |  |  |  | 点击试玩 |
